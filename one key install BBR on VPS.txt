@@ -40,3 +40,4 @@ net.ipv4.tcp_congestion_control = bbr
 net.core.default_qdisc = fq
 
 *设计者的原github地址  https://github.com/ray520502/across
+*作者网站：https://teddysun.com/489.html
